@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "problems", "problems", "{BEC6521A-F901-2BBF-F273-35A4FDC6E8A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{C4FD8DBA-EA61-8BD1-F379-F2B3C688572D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "problems\csharp\TwoSum\TwoSum.csproj", "{7824BC68-9D3C-54E9-1B9C-95FEF6B685A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TwoSum (1)", "TwoSum (1)", "{EDE77786-9968-FF28-D132-4E7E6B61A2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum.Tests", "problems\csharp\TwoSum\TwoSum.Tests\TwoSum.Tests.csproj", "{98D2FC0E-4319-1BEB-87D1-16F68CE02BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7824BC68-9D3C-54E9-1B9C-95FEF6B685A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7824BC68-9D3C-54E9-1B9C-95FEF6B685A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7824BC68-9D3C-54E9-1B9C-95FEF6B685A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7824BC68-9D3C-54E9-1B9C-95FEF6B685A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D2FC0E-4319-1BEB-87D1-16F68CE02BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D2FC0E-4319-1BEB-87D1-16F68CE02BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D2FC0E-4319-1BEB-87D1-16F68CE02BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D2FC0E-4319-1BEB-87D1-16F68CE02BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C4FD8DBA-EA61-8BD1-F379-F2B3C688572D} = {BEC6521A-F901-2BBF-F273-35A4FDC6E8A1}
+		{7824BC68-9D3C-54E9-1B9C-95FEF6B685A5} = {C4FD8DBA-EA61-8BD1-F379-F2B3C688572D}
+		{EDE77786-9968-FF28-D132-4E7E6B61A2B9} = {C4FD8DBA-EA61-8BD1-F379-F2B3C688572D}
+		{98D2FC0E-4319-1BEB-87D1-16F68CE02BA9} = {EDE77786-9968-FF28-D132-4E7E6B61A2B9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC79D771-D012-4D6A-8FC1-094D68221D32}
+	EndGlobalSection
+EndGlobal

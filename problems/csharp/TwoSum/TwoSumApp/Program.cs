@@ -1,5 +1,4 @@
-﻿using System;
-using TwoSum;
+﻿using TwoSumApp;
 
 class Program
 {
@@ -7,8 +6,8 @@ class Program
     {
         int[] nums = { 2, 7, 11, 15 };
         int target = 9;
-        var result = TwoSum.Solution.TwoSum(nums, target);
+
+        var result = Solution.TwoSum(nums, target);
         Console.WriteLine($"Resultado: [{string.Join(", ", result)}]");
     }
-
 }

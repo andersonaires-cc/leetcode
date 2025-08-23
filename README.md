@@ -9,8 +9,10 @@
 
 ## 🧩 Minhas Soluções do LeetCode
 
-| Nº | Desafio | Linguagem | Dificuldade |
-|----|---------|-----------|-------------|
-| 3  | Longest Substring Without Repeating Characters | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Medium |
-| 2  | Add Two Numbers | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | Medium |
-| 1  | Two Sum | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | Easy |
+
+| Nº | Desafio | Linguagem | Tópicos | Dificuldade |
+|----|---------|-----------|---------|-------------|
+| 3  | Longest Substring Without Repeating Characters | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Hash Table](https://img.shields.io/badge/Hash%20Table-FF6F61?style=flat&logo=hashnode&logoColor=white) ![String](https://img.shields.io/badge/String-F4D03F?style=flat&logo=codefactor&logoColor=white) ![Sliding Window](https://img.shields.io/badge/Sliding%20Window-8E44AD?style=flat&logo=windowsterminal&logoColor=white) | Medium |
+| 2  | Add Two Numbers | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | ![Linked List](https://img.shields.io/badge/Linked%20List-1ABC9C?style=flat&logo=visualstudiocode&logoColor=white) ![Math](https://img.shields.io/badge/Math-F39C12?style=flat&logo=gnuplot&logoColor=white) ![Recursion](https://img.shields.io/badge/Recursion-E74C3C?style=flat&logo=python&logoColor=white) | Medium |
+| 1  | Two Sum | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | ![Array](https://img.shields.io/badge/Array-3498DB?style=flat&logo=gnuplot&logoColor=white) ![Hash Table](https://img.shields.io/badge/Hash%20Table-FF6F61?style=flat&logo=hashnode&logoColor=white) | Easy |
+

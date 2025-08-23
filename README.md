@@ -6,10 +6,11 @@
   </a>
 </p>
 
+
 ## 🧩 Minhas Soluções do LeetCode
 
-| Nº | Desafio | Repositório |
-|----|---------|-------------|
-| 1  | Two Sum | [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/andersonaires-cc/leetcode-two-sum) |
-| 2  | Add Two Numbers | [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/andersonaires-cc/leetcode-add-two-numbers) |
-| 3  | Longest Substring Without Repeating Characters | [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/andersonaires-cc/leetcode-longest-substring) |
+| Nº | Desafio | Linguagem | Dificuldade |
+|----|---------|-----------|-------------|
+| 3  | Longest Substring Without Repeating Characters | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Medium |
+| 2  | Add Two Numbers | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | Medium |
+| 1  | Two Sum | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | Easy |

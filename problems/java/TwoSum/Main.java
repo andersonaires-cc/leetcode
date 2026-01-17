@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        TwoSum twoSum = new TwoSum();
+        Solution twoSum = new Solution();
 
         // Teste 1
         int[] nums1 = {2, 7, 11, 15};

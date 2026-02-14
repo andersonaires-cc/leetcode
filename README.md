@@ -9,12 +9,12 @@
 
 ## 🧩 Minhas Soluções do LeetCode
 
-
 | Nº | Desafio | Linguagem | Tópicos | Dificuldade |
 |----|---------|-----------|---------|-------------|
 | 1  | Two Sum | [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/andersonaires-cc/leetcode/tree/main/problems/csharp/TwoSum/TwoSumApp) [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/andersonaires-cc/leetcode/tree/main/problems/java/TwoSum) | ![Array](https://img.shields.io/badge/Array-3498DB?style=flat&logo=gnuplot&logoColor=white) ![Hash%20Table](https://img.shields.io/badge/Hash%20Table-FF6F61?style=flat&logo=hashnode&logoColor=white) | Easy |
-| 2  | Add Two Numbers |[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/andersonaires-cc/leetcode/tree/main/problems/java/AddTwoNumbers)  | ![Linked List](https://img.shields.io/badge/Linked%20List-1ABC9C?style=flat&logo=visualstudiocode&logoColor=white) | Medium |
+| 2  | Add Two Numbers | [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/andersonaires-cc/leetcode/tree/main/problems/csharp/AddTwoNumbers) [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/andersonaires-cc/leetcode/tree/main/problems/java/AddTwoNumbers) | ![Linked%20List](https://img.shields.io/badge/Linked%20List-1ABC9C?style=flat&logo=visualstudiocode&logoColor=white) | Medium |
 | 3  | Longest Substring Without Repeating Characters | [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/andersonaires-cc/leetcode/tree/main/problems/java/LongestSubstringWithoutRepeatingCharacters) | ![Hash%20Table](https://img.shields.io/badge/Hash%20Table-FF6F61?style=flat&logo=hashnode&logoColor=white) ![String](https://img.shields.io/badge/String-8E44AD?style=flat&logo=markdown&logoColor=white) ![Sliding%20Window](https://img.shields.io/badge/Sliding%20Window-27AE60?style=flat&logo=windowsterminal&logoColor=white) | Medium |
+
 
 
 
